@@ -31,7 +31,7 @@
 <div>
 <a href="https://github.com/veras-dan">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=veras-dan&show_icons=true&theme=codeSTACKr&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veras-dan&layout=compact&langs_count=7&theme=codeSTACKr"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veras-dan&layout=compact&langs_count=6&theme=codeSTACKr"/>
 
 </div>
 </span>
