@@ -16,9 +16,9 @@
 
 <span align="center">
   
-  [![Visits Badge](https://badges.pufler.dev/visits/veras-dan/veras-dan?style=for-the-badge&color=F27E2D)](#)
+  [![Status](https://komarev.com/ghpvc/?username=veras-dan&label=Profile%20views&style=for-the-badge&color=orange)](https://github.com/veras-dan)
   [![Repos Badge](https://badges.pufler.dev/repos/veras-dan?style=for-the-badge&color=F27E2D)](https://github.com/veras-dan?tab=repositories)
-  [![Updated Badge](https://badges.pufler.dev/updated/veras-dan/veras-dan?style=for-the-badge&color=F27E2D)](https://github.com/veras-dan)
+  [![Updated Badge](https://img.shields.io/github/last-commit/veras-dan/veras-dan?style=for-the-badge&color=orange)](https://github.com/veras-dan)
 
 </span>
 
@@ -26,15 +26,16 @@
 
 <br>
   
+<h2 align="center"> GitHub Analytics </h2>
+  
 <span align="center">
 
 <div>
 <a href="https://github.com/veras-dan">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=veras-dan&show_icons=true&theme=codeSTACKr&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veras-dan&layout=compact&langs_count=6&theme=codeSTACKr"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=veras-dan&show_icons=true&theme=codeSTACKr&include_all_commits=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veras-dan&layout=compact&langs_count=7&theme=codeSTACKr"/>
 
 </div>
-</span>
 
 <br>
 
@@ -44,12 +45,11 @@
 
 ## 🔥 Streak stats
 
-<!-- GitHub Readme Streak Stats - https://github.com/veradan/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/veras-dan/github-readme-streak-stats">
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="verasdan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=veras-dan&theme=elegant"/></a>
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="veras-dan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=veras-dan&theme=elegant"/></a>
 
-</p>  
+</p>   
 
 <br>
 <br>
