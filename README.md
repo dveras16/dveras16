@@ -12,15 +12,15 @@
 </span>
 ---
 
-<!-- <h2>GITHUB STATS</h2>
+<h2>GITHUB STATS</h2>
 
 <span align="center">
   
   [![Status](https://komarev.com/ghpvc/?username=veras-dan&label=Profile%20views&style=for-the-badge&color=orange)](https://github.com/veras-dan)
-  [![Repos Badge](https://badges.pufler.dev/repos/veras-dan)](https://github.com/veras-dan?tab=repositories)
+  <!-- [![Repos Badge](https://badges.pufler.dev/repos/veras-dan)](https://github.com/veras-dan?tab=repositories) -->
   [![Updated Badge](https://img.shields.io/github/last-commit/veras-dan/veras-dan?style=for-the-badge&color=orange)](https://github.com/veras-dan)
 
-</span> -->
+</span>
 
 ---
 
